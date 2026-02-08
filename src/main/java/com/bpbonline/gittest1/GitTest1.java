@@ -2,6 +2,7 @@ package com.bpbonline.gittest1;
 
 /**
  * Sample program for using Git and GitHub
+ * by the developer.
  *
  * @author Ken Fogel
  */
