@@ -1,7 +1,5 @@
 package com.bpbonline.gittest1;
 
-import module java.base;
-
 /**
  * Sample program for using Git
  *
