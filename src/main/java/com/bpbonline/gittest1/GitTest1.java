@@ -11,7 +11,7 @@ public class GitTest1 {
 
     void main() {
         // You must be using Java 25 for IO to work.
-        IO.println("Hello Maven and Git!");
-        IO.println("Bye for now!");
+        IO.println("Hello from Maven and Git!");
+        IO.println("Hello Hello Hello");
     }
 }
