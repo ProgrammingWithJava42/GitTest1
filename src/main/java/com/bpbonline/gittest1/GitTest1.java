@@ -8,6 +8,7 @@ package com.bpbonline.gittest1;
 public class GitTest1 {
 
     void main() {
+        // You must be using Java 25 for IO to work.
         IO.println("Hello Maven and Git!");
     }
 }
